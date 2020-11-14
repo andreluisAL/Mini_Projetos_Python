@@ -1,3 +1,9 @@
+#Criar um algoritimo que faça um robo se mover do canto
+#superior esquerdo da tela para o canto inferior direito
+
+
+
+
 robo = '!°•°!'
     
 lista = []
